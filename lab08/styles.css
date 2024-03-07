@@ -1,0 +1,29 @@
+body {background-color: #EDFFB0;}
+
+h1, h2 {color: #2F8F74;}
+
+p, li {color: #418BFF;}
+
+a {color: #1ED696;}
+
+nav {background-color: #1D6959;
+    color: #A4DB8F;
+    padding: 10px;
+    margin-bottom: 30px;}
+
+
+nav a:hover{background-color: #B18EF4;}
+
+.quote {float: right;}
+.footer {clear: both;}
+
+.top {display: flex;  background-color: #cce5ff; border-radius: 1em; margin: 10px 10px 20px 10px;}
+.bottom {display: flex; background-color: #cce5ff; border-radius: 1em; margin: 10px 10px 10px 10px;
+    clear: both;}
+.top div {padding: 20px;}
+.bottom div {padding: 20px;}
+
+.part3 {order: 2;}
+.part4 {order: 1;}
+
+
