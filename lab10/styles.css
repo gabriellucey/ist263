@@ -1,0 +1,52 @@
+body {background-color: #EDFFB0; font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;}
+
+h1, h2 {color: #2F8F74;}
+
+h1 {text-align: center;}
+
+p, li {color: #418BFF;}
+
+a {color: #1ED696;}
+
+nav {background-color: #1D6959;
+    color: #A4DB8F;
+    padding: 10px;
+    margin-bottom: 30px;}
+
+
+nav a:hover{background-color: #B18EF4;}
+
+.quote {float: right;}
+.footer {clear: both;}
+
+.top {display: flex;  background-color: #cce5ff; border-radius: 1em; margin: 10px 10px 20px 10px;}
+.bottom {display: flex; background-color: #cce5ff; border-radius: 1em; margin: 10px 10px 10px 10px;
+    clear: both; flex-wrap: wrap;}
+.top div {padding: 20px;}
+.bottom div {padding: 20px;}
+
+.part3 {order: 2;}
+.part4 {order: 1;}
+
+.evenrow {background-color: gray;}
+
+img {width: 75px;}
+
+.flexbox1, .flexbox2 {display: flex;}
+
+.flexbox1 {flex: 3; justify-content: space-between;}
+
+aside {background-color: #ffffff; border-radius: 1em; padding: 15px;}
+
+.otherskills {flex: 1; margin: 15px;}
+
+.intro {text-align: center;}
+
+.flexbox1 div {margin: 50px 20px 20px 20px;}
+
+.heading {max-width: 100%;}
+
+@media only screen and (max-width: 800px) {
+    nav a {width: 100%; display: block;}
+    nav span {display: none;}
+}
