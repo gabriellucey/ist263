@@ -1,20 +1,20 @@
 body {background-color: #EDFFB0; font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 100%;}
 
-h1, h2 {color: #2F8F74;}
+h1, h2 {color: #024431;}
 
 h1 {text-align: center;}
 
-p, li {color: #418BFF;}
+p, li {color: #041f4a;}
 
 a {color: #1ED696;}
 
-nav {background-color: #1D6959;
-    color: #A4DB8F;
+nav {background-color: #033026;
+    color: #ceebc2;
     padding: 10px;
     margin-bottom: 30px;}
 
 
-nav a:hover{background-color: #B18EF4;}
+nav a:hover{background-color: #5c0bf1;}
 
 .quote {float: right;}
 .footer {clear: both;}
@@ -28,7 +28,7 @@ nav a:hover{background-color: #B18EF4;}
 .part3 {order: 2;}
 .part4 {order: 1;}
 
-.evenrow {background-color: gray;}
+.evenrow {background-color: #393737;}
 
 .logo {width: 75px;}
 
@@ -51,7 +51,7 @@ aside {background-color: #ffffff; border-radius: 1em; padding: 15px;}
     nav span {display: none;}
 }
 
-.skip {background-color: #ffa500;
+.skip {background-color: #e9d9bd;
     padding: 8px;
     border: 2px solid #000000;
     text-decoration: none;
