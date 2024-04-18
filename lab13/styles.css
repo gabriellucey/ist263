@@ -1,20 +1,22 @@
 body {background-color: #EDFFB0; font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 100%;}
 
-h1, h2 {color: #024431;}
+h1, h2 {color: #022c20;}
 
 h1 {text-align: center;}
 
 p, li {color: #041f4a;}
 
-a {color: #1ED696;}
+a {color: #023120;}
 
 nav {background-color: #033026;
-    color: #ceebc2;
+    color: #e0f1d9;
     padding: 10px;
     margin-bottom: 30px;}
 
+nav a {color: #e0f1d9;}
 
-nav a:hover{background-color: #5c0bf1;}
+
+nav a:hover{background-color: #1d034e;}
 
 .quote {float: right;}
 .footer {clear: both;}
